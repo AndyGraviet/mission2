@@ -1,9 +1,9 @@
 ﻿using System;
 namespace mission2
 {
-	public class DiceFunctionality
+	public static class DiceFunctionality
 	{
-		public void Roll(int maxRolls)
+		public static void Roll(int maxRolls)
 		{
             Random rnd = new Random();
             int[] totals = new int[11];
@@ -38,3 +38,4 @@ namespace mission2
 }
 
 //this is a small change
+//this is another small change
