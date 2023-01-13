@@ -37,6 +37,3 @@ namespace mission2
 	}
 }
 
-//this is a test commit
-//trying to start a merge conflict
-//testing out a second branch
